@@ -19,7 +19,7 @@
 сходится к заданым вероятностям:
 
 ```commandline
-Execution took 0.11278564500025823 seconds
+Execution took 0.053690792999987025 seconds
 ==================================================
 green encountered in 0.3020 cases
 red encountered in 0.4983 cases
